@@ -1,0 +1,17 @@
+<tv generator-info-name="Viet-simpletv">
+<channel id="tbk">
+<display-name lang="vi">Bắc Kạn</display-name>
+</channel>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="Bắc Kạn">
+<title lang="vi">Đài Phát Thanh Và Truyền Hình Bắc Kạn</title>
+</programme>
+
+<channel id="kix">
+<display-name lang="vi">KIX</display-name>
+</channel>
+<programme start="20181107000000 +0700" stop="20500825000000 +0700" channel="kix">
+<title lang="vi">Kênh Phim Châu Á</title>
+</programme>
+
+</programme>
+</tv>
